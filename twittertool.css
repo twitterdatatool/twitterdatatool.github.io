@@ -84,7 +84,7 @@ hr.mini {
   width: 20%;
   border-right: 0.5px solid white;
   padding: 10px;
-  height: 900px; 
+  height: 1000px; 
   margin-bottom: 0px;/* Should be removed. Only for demonstration */
 }
 .scolumn {
@@ -92,14 +92,14 @@ hr.mini {
   width: 55%;
   border-right: 0.5px solid white;
   padding: 10px;
-  height: 900px; 
+  height: 1000px; 
   margin-bottom: 0px;/* Should be removed. Only for demonstration */
 }
 .tcolumn {
   float: left;
   width: 25%;
   padding: 10px;
-  height: 900px; 
+  height: 1000px; 
   margin-bottom: 0px;/* Should be removed. Only for demonstration */
 }
 .column2 {
