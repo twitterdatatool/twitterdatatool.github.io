@@ -41,6 +41,8 @@ form.example input[type=text] {
   float: left;
   width: 200%;
   height: 8%;
+  background-image: url('search.png');
+  background-position: 10px 10px;
   margin-left: -155px;
   background:   #243447;
   border-radius: 25px;
@@ -82,7 +84,7 @@ hr.mini {
   width: 20%;
   border-right: 0.5px solid white;
   padding: 10px;
-  height: 800px; 
+  height: 900px; 
   margin-bottom: 0px;/* Should be removed. Only for demonstration */
 }
 .scolumn {
@@ -90,22 +92,23 @@ hr.mini {
   width: 55%;
   border-right: 0.5px solid white;
   padding: 10px;
-  height: 800px; 
+  height: 900px; 
   margin-bottom: 0px;/* Should be removed. Only for demonstration */
 }
 .tcolumn {
   float: left;
   width: 25%;
   padding: 10px;
-  height: 800px; 
+  height: 900px; 
   margin-bottom: 0px;/* Should be removed. Only for demonstration */
 }
 .column2 {
   float: left;
-  width: 50%;
+  width: 25%;
   padding: 5px;
-  padding-left: 125px; 
-  margin-bottom: 0px;/* Should be removed. Only for demonstration */
+  padding-right: 175px;
+  padding-left: 135px; 
+  margin-top: 0px;/* Should be removed. Only for demonstration */
 }
 .columntop {
   float: left;
@@ -138,6 +141,10 @@ hr.mini {
 		text-align: left;
 		font-family: "Helvetica Neue";
 	}
+  p.mini {
+        text-align: center;
+    font-family: "Helvetica Neue";
+  }
 
 .div1 {
   width: 300px;
